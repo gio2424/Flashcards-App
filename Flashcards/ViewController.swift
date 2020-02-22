@@ -26,7 +26,7 @@ class ViewController: UIViewController {
             backLabel.isHidden = true
         }else{
             frontLabel.isHidden = true // hide
-            backLabel.isHidden = false
+            backLabel.isHidden = false // ..
         }
         
         
